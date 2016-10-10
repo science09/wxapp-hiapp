@@ -1,10 +1,10 @@
 ### 预览
 
-![preview1](snapshot/2016-10-10 下午11.03.14)
+![preview1](https://github.com/science09/wxapp-hiapp/blob/master/snapshot/2016-10-10 下午11.03.14)
 
-![preview2](snapshot/2016-10-10 下午11.03.45)
+![preview2](https://github.com/science09/wxapp-hiapp/blob/master/snapshot/2016-10-10 下午11.03.45)
 
-![preview3](snapshot/2016-10-10 下午11.04.03)
+![preview3](https://github.com/science09/wxapp-hiapp/blob/master/snapshot/2016-10-10 下午11.04.03)
 
 ### 环境搭建
 
