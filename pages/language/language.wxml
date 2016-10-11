@@ -1,0 +1,24 @@
+<view class="wx-cells">
+ <radio-group class="radio-group" bindchange="radioChange">
+    <label class="cell" wx:for-items="{{items}}">
+      <radio value="{{item.name}}" checked="{{item.checked}}">
+      <text class="wx-cell-text">{{item.value}}</text>
+      </radio>
+    </label>
+    <!--<label class="cell">
+      <radio value="{{item.name}}" checked="{{item.checked}}">
+      <text class="wx-cell-text">English</text>
+      </radio>
+    </label>
+    <label class="cell">
+      <radio value="{{item.name}}" checked="{{item.checked}}">
+      <text class="wx-cell-text">Spanish</text>
+      </radio>
+    </label>
+    <label class="cell-bottom">
+      <radio value="{{item.name}}" checked="{{item.checked}}">
+      <text class="wx-cell-text">France</text>
+      </radio>
+    </label>-->
+  </radio-group>
+</view>

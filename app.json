@@ -3,6 +3,8 @@
     "pages/home/home",
     "pages/settings/settings",
     "pages/contacts/contacts",
+    "pages/language/language",
+    "pages/about/about",
     "pages/logs/logs"
   ],
   "window":{

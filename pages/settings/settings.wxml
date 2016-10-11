@@ -32,18 +32,22 @@
     </view>
   </view>
   <view class="wx-cells">
+  <navigator url="../language/language">
     <view class="wx-cell-bottom">
       <image class="wx-cell-icon" src="../../assets/language.png"></image>
       <text class="wx-cell-text">Language</text>
-      <image class="wx-cell-arrow" src="../../assets/right-gray.png"></image>
+      <image class="wx-cell-arrow" src="../../assets/right-gray.png"></image>  
     </view>
+  </navigator>
   </view>
   <view class="wx-cells">
-    <view class="wx-cell-bottom">
-      <image class="wx-cell-icon" src="../../assets/about.png"></image>
-      <text class="wx-cell-text">About</text>
-      <image class="wx-cell-arrow" src="../../assets/right-gray.png"></image>
-    </view>
+    <navigator url="../about/about">
+      <view class="wx-cell-bottom">
+        <image class="wx-cell-icon" src="../../assets/about.png"></image>
+        <text class="wx-cell-text">About</text>
+        <image class="wx-cell-arrow" src="../../assets/right-gray.png"></image>
+      </view>
+    </navigator>
   </view>
 
   <view class="sign-out-container">

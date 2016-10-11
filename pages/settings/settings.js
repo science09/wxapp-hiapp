@@ -11,5 +11,8 @@ Page({
         userInfo:userInfo
       })
     })
+  },
+  setLang: function() {
+    wx.navigateTo({url: '../page/LangSet/LangSet'})
   }
 })
