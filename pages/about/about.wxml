@@ -5,15 +5,17 @@
   <view class="logo-text"> 
     <text>HiApp</text>
   </view>
-  <view class="detail">
-    <view class="text-line">
-      <text>GitHub: science09/HiApp</text>
-    </view>
-    <view class="text-line">
-      <text>E-Mail: sciencelinux@gmail.com</text>
-    </view>
-    <view class="text-line">
-      <text>Weibo: @彼岸_未来</text>
+  <view class="box">
+    <view class="detail">
+      <view class="text-line">
+        <text>GitHub: science09/HiApp</text>
+      </view>
+      <view class="text-line">
+        <text>E-Mail: sciencelinux@gmail.com</text>
+      </view>
+      <view class="text-line">
+        <text>Weibo: @彼岸_未来</text>
+      </view>
     </view>
   </view>
   <view class="footer"> 
