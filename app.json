@@ -4,6 +4,7 @@
     "pages/settings/settings",
     "pages/contacts/contacts",
     "pages/language/language",
+    "pages/message/message",
     "pages/about/about",
     "pages/logs/logs"
   ],

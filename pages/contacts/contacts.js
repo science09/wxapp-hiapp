@@ -33,4 +33,8 @@ Page({
     })
     return items
   },
+  navToMessage(event) {
+    let name = event.currentTarget.dataset.name
+    wx.navigateTo({url: `../message/message?name=${name}`})
+  }
 })
